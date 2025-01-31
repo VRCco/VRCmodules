@@ -1,37 +1,31 @@
-# Simple, Modifiable and Useful Modules
+# **Simple, Modifiable, and Useful Modules**  
 
-You could say that HTML, CSS, JavaScript and almost *any language* can be separated into modules.
+You could say that HTML, CSS, JavaScript, and almost *any language* can be modularized.  
 
-At VRC, we share some of the modules we use on our websites, from news carousels to footers, ideal for easy integration into any project.
+At **VRC Pages**, we share some of the modules we use on our websites—from news carousels to footers—designed for easy integration into any project.  
 
+## **Easy to Use and Customize**  
 
-## Easy to Add and Modify
+Using **VRC Modules** is as simple as:  
 
-VRC Modules has only 3 important steps:
+1. Finding the module you need  
+2. Copying and pasting it into your favorite code editor  
+3. Customizing it to fit your project  
 
-1. Find your module
+Each module includes **annotations** explaining its functionality, making modifications effortless.  
 
+## **Perfect for Any Project**  
 
-2. Copy and paste into your favorite code editor
+Whether you're working on a small landing page or a dynamic multi-functional website, **VRC Modules** adapt seamlessly to your needs.  
 
-3. Customize and enjoy.
+## **Open Source & Fully Customizable**  
 
-## Easy to Modify
+All **VRC Modules** are open source under the **MIT license**, meaning you're free to use, modify, and adapt them as needed. Contributions from the community are always welcome!  
 
-Thanks to annotations, you can know what each line of code does, making it easy to customize it to your needs.
+## **Powered by VRC**  
 
-## Use Cases
+**VRC Modules** is an extension developed by **VRC Pages** and **VRC Supports**, fully compatible with the latest web technologies.  
 
-VRC modules are ideal for both small projects and more complex websites. From a simple homepage to a dynamic website with multiple functionalities.
+### **Want more?**  
 
-## Fully Open and Customizable
-
-All VRC modules are open source, meaning you can view the code, modify it, and adapt it to your project without restrictions. The community is welcome to collaborate, improve, and share new ideas.
-
-
-### VRC Modules
-
-An extension designed by *VRC Supports* and *VRC Pages*, fully compatible with the latest web technologies.
-
-
-### ¿Looking for community modules? Documentation in another language? Want more information? Visit our [website](modules.vrcco.vercel.app).
+Looking for **community-contributed modules**? Need **documentation in another language**? Visit our [website](https://modules.vrcco.vercel.app) for more information.
