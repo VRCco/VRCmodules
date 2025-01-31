@@ -1,36 +1,37 @@
-# Módulos Simples, Modificables y Útiles
+# Simple, Modifiable and Useful Modules
 
-Se puede decir que HTML, CSS, JavaScript y casi cualquier lenguaje se pueden separar en módulos.
+You could say that HTML, CSS, JavaScript and almost *any language* can be separated into modules.
 
-En VRC, compartimos algunos de los módulos que usamos en nuestros sitios web, desde carruseles de noticias hasta pies de página, ideales para integrarse fácilmente en cualquier proyecto.
-
-
-## Fácil de Añadir y Modificar
-
-VRC Modules tiene solo 3 pasos importantes:
-
-1. Encuentra tu módulo
+At VRC, we share some of the modules we use on our websites, from news carousels to footers, ideal for easy integration into any project.
 
 
-2. Copia y pega en tu editor de código favorito
+## Easy to Add and Modify
+
+VRC Modules has only 3 important steps:
+
+1. Find your module
 
 
-3. Personaliza y disfruta.
+2. Copy and paste into your favorite code editor
 
+3. Customize and enjoy.
 
-## Fácil de Modificar
+## Easy to Modify
 
-Gracias a las anotaciones, puedes saber qué hace cada línea de código, facilitando su personalización según tus necesidades.
+Thanks to annotations, you can know what each line of code does, making it easy to customize it to your needs.
 
+## Use Cases
 
-## Casos de Uso
+VRC modules are ideal for both small projects and more complex websites. From a simple homepage to a dynamic website with multiple functionalities.
 
-Los módulos de VRC son ideales tanto para proyectos pequeños como para sitios web más complejos. Desde una simple página de inicio hasta una web dinámica con múltiples funcionalidades.
+## Fully Open and Customizable
+
+All VRC modules are open source, meaning you can view the code, modify it, and adapt it to your project without restrictions. The community is welcome to collaborate, improve, and share new ideas.
 
 
 ### VRC Modules
 
-Una extensión diseñada por *VRC Supports* y *VRC Pages*, totalmente compatible con las tecnologías web más recientes.
+An extension designed by *VRC Supports* and *VRC Pages*, fully compatible with the latest web technologies.
 
 
-### ¿Buscas módulos de la comunidad? ¿Documentación en otro idioma? ¿Quieres más información? Visita nuestro sitio web.
+### ¿Looking for community modules? Documentation in another language? Want more information? Visit our [website](modules.vrcco.vercel.app).
